@@ -1,0 +1,6 @@
+C:\Users\Saied Ahammed Foyez\source\repos\Calculation\Calculation\bin\Debug\Calculation.exe.config
+C:\Users\Saied Ahammed Foyez\source\repos\Calculation\Calculation\bin\Debug\Calculation.exe
+C:\Users\Saied Ahammed Foyez\source\repos\Calculation\Calculation\bin\Debug\Calculation.pdb
+C:\Users\Saied Ahammed Foyez\source\repos\Calculation\Calculation\obj\Debug\Calculation.csprojAssemblyReference.cache
+C:\Users\Saied Ahammed Foyez\source\repos\Calculation\Calculation\obj\Debug\Calculation.exe
+C:\Users\Saied Ahammed Foyez\source\repos\Calculation\Calculation\obj\Debug\Calculation.pdb

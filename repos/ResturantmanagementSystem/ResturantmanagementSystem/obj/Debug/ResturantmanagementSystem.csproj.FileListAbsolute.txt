@@ -1,0 +1,6 @@
+C:\Users\Saied Ahammed Foyez\source\repos\ResturantmanagementSystem\ResturantmanagementSystem\bin\Debug\ResturantmanagementSystem.exe.config
+C:\Users\Saied Ahammed Foyez\source\repos\ResturantmanagementSystem\ResturantmanagementSystem\bin\Debug\ResturantmanagementSystem.exe
+C:\Users\Saied Ahammed Foyez\source\repos\ResturantmanagementSystem\ResturantmanagementSystem\bin\Debug\ResturantmanagementSystem.pdb
+C:\Users\Saied Ahammed Foyez\source\repos\ResturantmanagementSystem\ResturantmanagementSystem\obj\Debug\ResturantmanagementSystem.csprojAssemblyReference.cache
+C:\Users\Saied Ahammed Foyez\source\repos\ResturantmanagementSystem\ResturantmanagementSystem\obj\Debug\ResturantmanagementSystem.exe
+C:\Users\Saied Ahammed Foyez\source\repos\ResturantmanagementSystem\ResturantmanagementSystem\obj\Debug\ResturantmanagementSystem.pdb
